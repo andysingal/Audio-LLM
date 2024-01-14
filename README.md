@@ -9,5 +9,6 @@ Resource:
 - Samples https://github.com/julianstefinovic/thesis-audio-examples 
 - audio-quality-assessment https://github.com/ashutoshc8101/audio-quality-assessment/tree/main/notebooks
 - Voice2Summary https://github.com/alimirash/Voice2Summary/blob/main/Voice2Summary.ipynb
-- HuggingSound https://github.com/jonatasgrosman/huggingsound 
+- HuggingSound https://github.com/jonatasgrosman/huggingsound
+- audio-instrument-classification https://github.com/qthuy2k1/audio-instrument-classification 
   
