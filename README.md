@@ -8,5 +8,6 @@ Resource:
 - Music-Genre-Classification  https://github.com/yadgire7/Music-Genre-Classification
 - Samples https://github.com/julianstefinovic/thesis-audio-examples 
 - audio-quality-assessment https://github.com/ashutoshc8101/audio-quality-assessment/tree/main/notebooks
-- Voice2Summary https://github.com/alimirash/Voice2Summary/blob/main/Voice2Summary.ipynb 
+- Voice2Summary https://github.com/alimirash/Voice2Summary/blob/main/Voice2Summary.ipynb
+- HuggingSound https://github.com/jonatasgrosman/huggingsound 
   
