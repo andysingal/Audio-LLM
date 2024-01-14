@@ -7,5 +7,5 @@ Resource:
 - audiolm-pytorch https://github.com/lucidrains/audiolm-pytorch
 - Music-Genre-Classification  https://github.com/yadgire7/Music-Genre-Classification
 - Samples https://github.com/julianstefinovic/thesis-audio-examples 
-
+- audio-quality-assessment https://github.com/ashutoshc8101/audio-quality-assessment/tree/main/notebooks 
   
