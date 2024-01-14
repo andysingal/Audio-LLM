@@ -5,5 +5,6 @@ Resource:
 - https://til.simonwillison.net/machinelearning/musicgen
 - Pop2piano https://huggingface.co/docs/transformers/model_doc/pop2piano
 - audiolm-pytorch https://github.com/lucidrains/audiolm-pytorch
-- Music-Genre-Classification  https://github.com/yadgire7/Music-Genre-Classification 
+- Music-Genre-Classification  https://github.com/yadgire7/Music-Genre-Classification
+
   
