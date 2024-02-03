@@ -12,6 +12,9 @@ Resource:
 - HuggingSound https://github.com/jonatasgrosman/huggingsound
 - audio-instrument-classification https://github.com/qthuy2k1/audio-instrument-classification
 - Is it Pop or Rock? Classify songs with Hugging Face 🤗 and Ray on Vertex AI https://medium.com/google-cloud/is-it-pop-or-rock-classify-songs-with-hugging-face-and-ray-on-vertex-ai-34b3ef1175f8
+- SeisCLIP https://github.com/sixu0/SeisCLIP/tree/main/Zero_shot
+  
+ 
 
 
 Optimum Models:
