@@ -21,3 +21,6 @@ Optimum Models:
   
 Speaker-Diarization
 - https://huggingface.co/spaces/vumichien/Whisper_speaker_diarization/blob/main/app.py
+- https://medium.com/@pierre_guillou/speech-to-text-get-transcription-with-speakers-from-large-audio-file-in-any-language-openai-8da2312f1617
+- https://github.com/piegu/language-models/blob/master/speech_to_text_transcription_with_speakers_Whisper_Transcription_%2B_NeMo_Diarization.ipynb
+- https://docs.openvino.ai/2023.3/notebooks/212-pyannote-speaker-diarization-with-output.html
