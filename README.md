@@ -12,7 +12,11 @@ Resource:
 - HuggingSound https://github.com/jonatasgrosman/huggingsound
 - audio-instrument-classification https://github.com/qthuy2k1/audio-instrument-classification
 - Is it Pop or Rock? Classify songs with Hugging Face 🤗 and Ray on Vertex AI https://medium.com/google-cloud/is-it-pop-or-rock-classify-songs-with-hugging-face-and-ray-on-vertex-ai-34b3ef1175f8
+
+Cool Git Repos
 - SeisCLIP https://github.com/sixu0/SeisCLIP/tree/main/Zero_shot
+- Multimodal Argumentation Mining https://github.com/StefanoColamonaco/Multimodal-AM/blob/main/main.ipynb
+- Social-IQ-2.0-Multimodal-with-Emotional-Cues  https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues 
   
  
 
