@@ -19,3 +19,5 @@ Optimum Models:
 - https://huggingface.co/docs/optimum/intel/inference#export-and-inference-of-stable-diffusion-models
 - https://huggingface.co/blog/fine-tune-w2v2-bert 
   
+Speaker-Diarization
+- https://huggingface.co/spaces/vumichien/Whisper_speaker_diarization/blob/main/app.py
