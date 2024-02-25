@@ -1,0 +1,1 @@
+- https://blog.unrealspeech.com/wav2vec2/ 
