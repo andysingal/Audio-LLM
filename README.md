@@ -31,3 +31,7 @@ Speaker-Diarization
 - https://medium.com/@pierre_guillou/speech-to-text-get-transcription-with-speakers-from-large-audio-file-in-any-language-openai-8da2312f1617
 - https://github.com/piegu/language-models/blob/master/speech_to_text_transcription_with_speakers_Whisper_Transcription_%2B_NeMo_Diarization.ipynb
 - https://docs.openvino.ai/2023.3/notebooks/212-pyannote-speaker-diarization-with-output.html
+
+Resources:
+
+[Convert Text to Speech with Python](https://morioh.com/a/aefbb0c37e76/convert-text-to-speech-with-python) 
