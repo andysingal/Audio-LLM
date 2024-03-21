@@ -1,1 +1,2 @@
-- https://blog.unrealspeech.com/wav2vec2/ 
+- https://blog.unrealspeech.com/wav2vec2/
+- [FINE-TUNING WHISPER MODEL FOR SPEECH RECOGNITION](https://aisengtech.com/)
