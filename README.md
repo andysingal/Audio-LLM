@@ -37,5 +37,7 @@ Resources:
 [Convert Text to Speech with Python](https://morioh.com/a/aefbb0c37e76/convert-text-to-speech-with-python) 
 [voice-chat-with-mistral](https://huggingface.co/spaces/coqui/voice-chat-with-mistral/blob/main/app.py) 
 
+Notebooks
+[Using LangChain Agents to Build a Music Recommendation System](https://www.53ai.com/news/qianyanjishu/2024052323016.html) 
 
 
