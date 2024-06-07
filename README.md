@@ -40,4 +40,6 @@ Resources:
 Notebooks
 [Using LangChain Agents to Build a Music Recommendation System](https://www.53ai.com/news/qianyanjishu/2024052323016.html) 
 
+[Video Chat with Multimodal RAG on Jetson](https://www.hackster.io/lijiahaoxyz/video-chat-with-multimodal-rag-on-jetson-cd83f9) 
+
 
