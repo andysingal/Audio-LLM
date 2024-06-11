@@ -42,4 +42,6 @@ Notebooks
 
 [Video Chat with Multimodal RAG on Jetson](https://www.hackster.io/lijiahaoxyz/video-chat-with-multimodal-rag-on-jetson-cd83f9) 
 
+[Langchain-Voice](https://github.com/ronidas39/LLMtutorial/blob/main/tutorial83/ui.py)
+
 
