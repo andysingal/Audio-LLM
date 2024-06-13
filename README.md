@@ -46,3 +46,6 @@ Notebooks
 [webrtc-ai-voice-chat](https://github.com/lalanikarim/webrtc-ai-voice-chat) 
 
 
+Blog":
+- https://community.openai.com/t/whispers-auto-punctuation/806764/5 
+
