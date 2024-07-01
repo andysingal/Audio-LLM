@@ -45,6 +45,8 @@ Notebooks
 [Langchain-Voice](https://github.com/ronidas39/LLMtutorial/blob/main/tutorial83/ui.py)
 [webrtc-ai-voice-chat](https://github.com/lalanikarim/webrtc-ai-voice-chat) 
 
+[Multinodal LLM with LangChain](https://www.kaggle.com/code/sefercanapaydn/multinodal-llm-with-langchain) 
+
 
 Blog":
 - https://community.openai.com/t/whispers-auto-punctuation/806764/5 
