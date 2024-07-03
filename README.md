@@ -47,6 +47,8 @@ Notebooks
 
 [Multinodal LLM with LangChain](https://www.kaggle.com/code/sefercanapaydn/multinodal-llm-with-langchain) 
 
+[Image-audio-captioning-with-ai](https://github.com/mayankchugh-learning/Image-audio-captioning-with-ai/tree/main) 
+
 
 Blog":
 - https://community.openai.com/t/whispers-auto-punctuation/806764/5 
