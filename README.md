@@ -49,6 +49,8 @@ Notebooks
 
 [Image-audio-captioning-with-ai](https://github.com/mayankchugh-learning/Image-audio-captioning-with-ai/tree/main) 
 
+[Local Voice Chatbot: Ollama + HF Transformers + Coqui TTS Toolkit--June](https://github.com/mezbaul-h/june)
+
 
 Blog":
 - https://community.openai.com/t/whispers-auto-punctuation/806764/5 
