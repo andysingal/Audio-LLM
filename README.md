@@ -51,6 +51,8 @@ Notebooks
 
 [Local Voice Chatbot: Ollama + HF Transformers + Coqui TTS Toolkit--June](https://github.com/mezbaul-h/june)
 
+[speech-to-speech](https://github.com/eustlb/speech-to-speech)
+
 
 Blog":
 - https://community.openai.com/t/whispers-auto-punctuation/806764/5 
