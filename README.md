@@ -16,7 +16,8 @@ Resource:
 Cool Git Repos
 - SeisCLIP https://github.com/sixu0/SeisCLIP/tree/main/Zero_shot
 - Multimodal Argumentation Mining https://github.com/StefanoColamonaco/Multimodal-AM/blob/main/main.ipynb
-- Social-IQ-2.0-Multimodal-with-Emotional-Cues  https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues 
+- Social-IQ-2.0-Multimodal-with-Emotional-Cues  https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues
+- [AssemblyAI-Medical-Transcription-Analysis](https://github.com/smithakolan/AssemblyAI-Medical-Transcription-Analysis)
   
  
 
