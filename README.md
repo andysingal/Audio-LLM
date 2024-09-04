@@ -18,6 +18,7 @@ Cool Git Repos
 - Multimodal Argumentation Mining https://github.com/StefanoColamonaco/Multimodal-AM/blob/main/main.ipynb
 - Social-IQ-2.0-Multimodal-with-Emotional-Cues  https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues
 - [AssemblyAI-Medical-Transcription-Analysis](https://github.com/smithakolan/AssemblyAI-Medical-Transcription-Analysis)
+- [whisperX](https://github.com/m-bain/whisperX)
   
  
 
