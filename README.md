@@ -35,6 +35,7 @@ Speaker-Diarization
 - https://medium.com/@pierre_guillou/speech-to-text-get-transcription-with-speakers-from-large-audio-file-in-any-language-openai-8da2312f1617
 - https://github.com/piegu/language-models/blob/master/speech_to_text_transcription_with_speakers_Whisper_Transcription_%2B_NeMo_Diarization.ipynb
 - https://docs.openvino.ai/2023.3/notebooks/212-pyannote-speaker-diarization-with-output.html
+[CrisperWhisper is an advanced variant of OpenAI's Whisper, designed for fast, precise, and verbatim speech recognition with accurate (crisp) word-level timestamps]
 
 Resources:
 
