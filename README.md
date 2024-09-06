@@ -27,7 +27,8 @@ Cool Git Repos
 Optimum Models:
 - https://huggingface.co/helenai/MIT-ast-finetuned-speech-commands-v2-ov
 - https://huggingface.co/docs/optimum/intel/inference#export-and-inference-of-stable-diffusion-models
-- https://huggingface.co/blog/fine-tune-w2v2-bert 
+- https://huggingface.co/blog/fine-tune-w2v2-bert
+- https://huggingface.co/nyrahealth/CrisperWhisper
   
 Speaker-Diarization
 - https://huggingface.co/spaces/vumichien/Whisper_speaker_diarization/blob/main/app.py
