@@ -60,5 +60,6 @@ Notebooks
 
 
 Blog":
-- https://community.openai.com/t/whispers-auto-punctuation/806764/5 
+- https://community.openai.com/t/whispers-auto-punctuation/806764/5
+- [LiveKit-AI-Voice-Assitant](https://github.com/techwithtim/LiveKit-AI-Voice-Assitant/tree/main)
 
