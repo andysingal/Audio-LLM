@@ -9,4 +9,10 @@ A simple Voice RAG (Retrieval-Augmented Generation) system using Deepseek, LangC
 <img width="967" alt="Screenshot 2025-05-09 at 11 04 17 AM" src="https://github.com/user-attachments/assets/e6fd75c8-9605-4336-994b-de61fe004d05" />
 
 
+### Architecture
+
+<img width="831" alt="Screenshot 2025-05-09 at 11 14 02 AM" src="https://github.com/user-attachments/assets/186345c8-ddb0-4e64-a302-648813aa0b6d" />
+
+
+
 
