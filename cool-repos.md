@@ -10,3 +10,7 @@ A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX f
 ```py
 "uvx --from mlx-audio mlx_audio.tts.generate --model mlx-community/Dia-1.6B-6bit --text "[S1] Dia can now run on your Mac thanks to MLX. [S2] You get full control over scripts and voices. [S1] Wow. Amazing. (laughs)""
 ```
+
+[AI Home Automation / Control](https://github.com/daslearning-org/AI-Home-Automation)
+
+Smart Home with AI: Your private AI Agent using LangGraph, LangChain, Ollama to control home appliances which are being controlled via Micro-controllers like ESP32, ESP8266 etc. It is designed to work completely offline & private in nature. Users can interact to the AI with text prompts or voice commands to control the home appliances. This is a prototype which can be improved and modified hugely
