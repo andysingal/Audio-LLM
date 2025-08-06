@@ -20,3 +20,8 @@ Smart Home with AI: Your private AI Agent using LangGraph, LangChain, Ollama to 
 
 Unmute is a system that allows text LLMs to listen and speak by wrapping them in Kyutai's Text-to-speech and Speech-to-text models. The speech-to-text transcribes what the user says, the LLM generates a response in text, and the text-to-speech reads it out loud. Both the STT and TTS are optimized for low latency and the system works with any text LLM you like.
 
+[gpt-oss-space-game](https://github.com/kwindla/gpt-oss-space-game/)
+Space Adventure Story - Voice Mode
+You are the lone crew member on light transport ship Gradient Ascent. Your ship has suffered a catastrophic failure, cause unknown. Work with the ship's AI to diagnose the failure and make it safely to a station or planet.
+
+
